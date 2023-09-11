@@ -4,7 +4,7 @@
 #na variável repositório, prefira a url do repositório baseada em https para nao termos que configurar SSH
 export name='KauanNN7'
 export email="kauan.araujo0711@outlook.com"
-export repositorio="https://github.com/KauanNN7/TelaLogin2.git";
+export repositorio="https://github.com/KauanNN7/TelaLogin.git";
 
 #Daqui pra baixo mexa somente se for realmente necessário ou se souber o que está fazendo :P
 
