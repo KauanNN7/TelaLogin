@@ -1,12 +1,12 @@
 import { StatusBar } from 'expo-status-bar';
 import React from 'react';
 import { SafeAreaView, StyleSheet, } from 'react-native';
-import LoginScreen from './src/telalogin';
+import PercentageDimensionsBasics from './src/telalogin';
 
 const App = () => {
   return (
     <SafeAreaView>
-      <LoginScreen/>
+      <PercentageDimensionsBasics/>
     </SafeAreaView>
   );
 };
