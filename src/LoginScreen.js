@@ -9,3 +9,5 @@ const handleLogin = () => {
         console.log(`login com Email: ${email} e senha: ${password}`);
 };
 };
+
+export default LoginScreen;
