@@ -12,9 +12,7 @@ const LoginScreen = () => {
     return (
         <View>
             <Text>Tela de Login</Text>
-            <TextInput
-                
-            />
+            <TextInput/>
         </View>
     );
 };
